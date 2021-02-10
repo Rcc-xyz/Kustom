@@ -3,3 +3,11 @@ https://v1.alapi.cn/api/music/search?keyword=~~
 <m_id>
 https://v1.hitokoto.cn/nm/search/~~?type=SONG
 <m_id>
+
+<m_com>
+https://api.imjad.cn/cloudmusic/?type=comments&id=~~
+<m_com>
+http://music.163.com/api/v1/resource/comments/R_SO_4_~~
+<m_com>
+https://api.berryapi.net/?service=App.Netmusic.Comments&app_key=LukP6mwVm6gmjh9M&id=~~
+<m_com>
