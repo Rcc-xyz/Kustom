@@ -1,3 +1,5 @@
+<api>
+
 <m_id>
 https://v1.alapi.cn/api/music/search?keyword=~~
 <m_id>
@@ -17,3 +19,5 @@ https://v1.hitokoto.cn/nm/lyric/~~
 <m_lrc>
 https://api.imjad.cn/cloudmusic/?type=lyric&id=~~
 <m_lrc>
+
+<api>
