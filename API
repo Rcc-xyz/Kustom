@@ -7,7 +7,7 @@ https://ligshtadow.xyz/2021/02/18/kustom-feedback/
 <m_id>
 https://v1.alapi.cn/api/music/search?keyword=~~
 <m_id>
-https://v1.hitokoto.cn/nm/search/~~?type=SONG
+https://v1.hitokoto.cn/nm/search/~~?type=SONG&offset=0&limit=2
 <m_id>
 
 <m_com>
