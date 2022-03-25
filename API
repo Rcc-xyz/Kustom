@@ -9,6 +9,8 @@ https://v1.alapi.cn/api/music/search?keyword=~~
 <m_id>
 https://v1.hitokoto.cn/nm/search/~~?type=SONG&offset=0&limit=2
 <m_id>
+https://v1.itooi.cn/netease/search?keyword=~~&type=song&pageSize=1
+<m_id>
 
 <m_com>
 https://api.imjad.cn/cloudmusic/?type=comments&id=~~
